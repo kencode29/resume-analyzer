@@ -1,0 +1,4 @@
+hi everyone
+i m learning file os
+using c++
+i like programming in c++
